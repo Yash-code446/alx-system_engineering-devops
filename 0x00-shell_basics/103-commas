@@ -1,2 +1,2 @@
 #!/bin/bash
-/bin/ls-ma * -d */ -a
+ls -pamw
