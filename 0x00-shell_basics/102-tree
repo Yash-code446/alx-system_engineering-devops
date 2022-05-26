@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p <path of the last child in the dir tree>
+mkdir -p welcome/to/school
